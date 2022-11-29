@@ -8,7 +8,7 @@
       <link href="/2022/11/27/%E5%B0%8F%E5%90%B4%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
       <url>/2022/11/27/%E5%B0%8F%E5%90%B4%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
       
-        <content type="html"><![CDATA[<h2 id="This-is-a-page"><a href="#This-is-a-page" class="headerlink" title="This is a page!!!"></a>This is a page!!!</h2>]]></content>
+        <content type="html"><![CDATA[<h2 id="This-is-a-page"><a href="#This-is-a-page" class="headerlink" title="This is a page!!!"></a>This is a page!!!</h2><p>中国近代史是从第一次鸦片战争1840年到1949年中华人民共和国成立的历史。</p><p>1839年6月：林则徐虎门销烟。</p><p>1840年：鸦片战争爆发。</p><p>1841年：三元里抗英斗争，是中国近代史上中国人民第一次自发的大规模抵抗外国侵略斗争。</p><p>1842年8月：签订《中英南京条约》，是中国近代史上第一个不平等条约，中国开始沦为半殖民地半封建社会。</p><p>1851年：太平天国建立。</p><p>1861年：洋务运动开始。</p><p>1894年：甲午中日战争。</p><p>1895年4月：签订《马关条约》，中国半殖民地半封建化社会程度大大加深。</p><p>1898年9月21日：戊戌变法失败。戊戌变法是一场资产阶级改良运动。</p><p>1899年：义和团运动开始。</p><p>1901年：签订《辛丑条约》，是中国完全沦为半殖民地半封建社会。</p><p>1894年：兴中会成立，中国第一个资产阶级革命团体。</p><p>1905年：中国同盟会成立，创办《民报》。</p><p>1910年：黄花岗起义。</p><p>1911年：武昌起义。</p><p>1912年：1月1日中华民国成立，孙中山任临时大总统，颁布《中华民国临时约法》。</p><p>1912年2月：帝制的终结，标志着清王朝的统治结束。</p><p>1918年：护法运动失败，标志着整个中国民族资产阶级领导的旧民主主义革命的终结。</p><p>1919年：五四运动爆发，是新民主主义的开端。</p><p>1921年7月23日：中共一大的召开，标志中国共产党的成立。</p><p>1922年：中共二大召开，制定反帝反封建的民主革命纲领。</p><p>1923年：中共三大，标志着第一次国共合作的正式形成。</p><p>1924年：国民党一大，提出新三民主义，国共合作正式形成。</p><p>1925年：五卅运动，掀起了全国范围的大革命高潮。</p><p>1927年8月1日：南昌起义，打响了武装反抗国民党反动派的第一枪。</p><p>1927年8月7日：八七会议，开始了从大革命失败到土地革命战争兴起的历史性转折。</p><p>1931年9月18日，日本发动九一八事变。</p><p>1935年1月:遵义会议的召开，解决了军事问题和组织问题。</p><p>1935年12月：中共陕北瓦窑堡召开会议，确定了建立抗日民族统一战线的方针。</p><p>1936年12月12日：西安事变和平解决。</p><p>1937年7月7日：卢沟桥事变，全面抗战的开始。</p><p>1937年12月：南京大屠杀。</p><p>1945年8月15日：日本宣布无条件投降，中国人民最终取得了抗战的伟大胜利。</p><p>1946年6月：国民党军队大举进攻中原解放区，全面内战爆发。</p><p>1949年4月23日：解放军占领国民党的统治中心南京，宣告了延续22年的国民党反动统治的覆灭。</p><p>1949年10月1日，中华人民共和国的成立，标志着中国进入了新民主主义社会。</p>]]></content>
       
       
       
@@ -31,17 +31,6 @@
     
     
     <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>link</title>
       <link href="/link/index.html"/>
       <url>/link/index.html</url>
@@ -53,9 +42,9 @@
     
     
     <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -67,6 +56,17 @@
       <title>电影</title>
       <link href="/movies/index.html"/>
       <url>/movies/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
